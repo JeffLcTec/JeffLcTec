@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Pura vida, mae! 👋 Soy Jeff
+# Hello World👋 Soy Jeff
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=620&lines=Estudiante+de+Computer+Engineering+%40+TEC;Desde+San+Carlos%2C+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7;Convierto+caf%C3%A9+en+c%C3%B3digo+(m%C3%A1s+o+menos);Casi+ingeniero%2C+ya+casi+me+gradúo+%F0%9F%8E%93" alt="typing intro" />
 
