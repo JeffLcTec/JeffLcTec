@@ -48,10 +48,10 @@ Hablo español de toda la vida e inglés nivel C1, así que pueden escribirme en
 
 [![GitHub](https://img.shields.io/badge/GitHub-JeffLcTec-181717?style=for-the-badge&logo=github)](https://github.com/JeffLcTec)
 
-<sub>⚡ Dato random: el 90% de mis bugs se arreglan con un café y salir a caminar.</sub>
+
 
 </div>
-## Hi there 👋
+
 
 <!--
 **JeffLcTec/JeffLcTec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
