@@ -35,15 +35,7 @@ Hablo español de toda la vida e inglés nivel C1, así que pueden escribirme en
 | [**GamesTec**](https://github.com/JeffLcTec/GamesTec) | Catálogo de videojuegos con detalle, precios y descuentos (proyecto universitario). | Python · Streamlit |
 | [**RegistroVotacion**](https://github.com/JeffLcTec/RegistroVotacion) | App web de registro de votación, desplegada en Vercel. | React |
 
-> Hay más cosas cocinándose, pero esas se quedan en el horno hasta que estén listas para salir.
 
-## 🎯 Ahorita ando en
-
-- 🎓 Terminando la carrera
-- 🧪 Puliendo mis proyectos para que se vean como deben
-- 💼 Buscando mi primera oportunidad (practicante, junior o freelance). Si tiene algo, hablemos.
-
-## 📫 Hablemos
 
 <div align="center">
 
